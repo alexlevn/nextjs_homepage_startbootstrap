@@ -3,6 +3,7 @@ import TopMenu from "../components/TopMenu";
 import LeftMenu from "../components/leftMenu";
 import Carousel from "../components/carousel";
 import MoviesList from "../components/MoviesList";
+import Footer from "../components/footer";
 
 const Home = () => (
   <div>
@@ -25,6 +26,8 @@ const Home = () => (
         </div>
       </div>
     </div>
+
+    <Footer />
   </div>
 );
 export default Home;
