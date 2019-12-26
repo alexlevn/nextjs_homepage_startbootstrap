@@ -1,7 +1,7 @@
 # Readme
 
 Get the bootstrap theme at [Link](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/README.md)
-Remove Delete unnecessary things, I will get the same like 'html_resourse' folder.
+Remove Delete unnecessary things, I will get the same like as 'resourse' folder.
 
 ```bash
 yarn add @zeit/next-css @zeit/next-sass node-sass
